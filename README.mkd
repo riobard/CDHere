@@ -1,0 +1,14 @@
+CDHere.app
+==========
+
+About
+-----
+CDHere.app is a tiny utility to be placed on your Finder toolbar. When you click it, it opens a Terminal.app window at the current Finder directory so you can practice your command-line Kung Fu as you wish. 
+
+Why
+---
+I tried several alternatives, but all of them share a minor issue in common: if you click those tools when Terminal.app is NOT running, you always get two Terminal.app windows (one at ~, the other at your current Finder folder) instead of one. I just want one. So I created CDHere which handles the edge case. 
+
+Usage
+-----
+Just unzip and save it somewhere (e.g. your Applications folder), then drag it to your Finder toolbar and you are good to go. 
